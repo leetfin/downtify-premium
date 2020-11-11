@@ -1,4 +1,3 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-121798497-2/github/eviabs/downtify-premium)](https://github.com/igrigorik/ga-beacon)
 [![Is this project still maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=plastic)](https://github.com/badges/shields)
 
 ### What is Downtify?
