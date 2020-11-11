@@ -11,7 +11,7 @@ playlists directly from Spotify.
 
 A Spotify Premium account is required. 
 
-This project was forked from [Shawak/downtify](https://github.com/Shawak/downtify) and was modified a bit.
+This project was forked from [elmundio87/downtify-premium](https://github.com/elmundio87/downtify-premium) which was forked from [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) which was forked from [Shawak/downtify](https://github.com/Shawak/downtify) and was modified a bit.
 
 
 ### Usage
@@ -34,7 +34,7 @@ To use Downtify, you need to clone/download the repo and edit the `config.xml` f
 
 ### Downloading
 
-You can download the latest version [here](https://github.com/eviabs/downtify-premium/archive/master.zip).
+You can download the latest version [here](https://github.com/L33Tech/downtify-premium/archive/master.zip).
 
 ### Known Issues ###
 1. Playlists cannot be loaded at the moment. To download a full playlist follow this:
@@ -47,8 +47,12 @@ You can download the latest version [here](https://github.com/eviabs/downtify-pr
 
 ### Bugs
 
-Feel free to help developing this mod by reporting any issues at our [bug tracker](https://github.com/eviabs/downtify-premium/issues).
+Feel free to help developing this mod by reporting any issues at our [bug tracker](https://github.com/L33Tech/downtify-premium/issues).
 
 ### License
 
-Downtify is licensed under the GNU General Public License v3, for more information please check out the [license information](https://github.com/eviabs/downtify-premium/blob/master/LICENSE).
+Downtify is licensed under the GNU General Public License v3, for more information please check out the [license information](https://github.com/L33Tech/downtify-premium/blob/master/LICENSE).
+
+### Does it work?
+
+As of 11-10-2020 (American date format) it works - now without spitting build errors.
