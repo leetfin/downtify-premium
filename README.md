@@ -1,4 +1,5 @@
 [![Is this project still maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=plastic)](https://github.com/badges/shields)
+[![Analytics](https://ga-beacon.appspot.com/G-M3FMF7X5B8/L33Tech/downtify-premium)](https://github.com/igrigorik/ga-beacon)
 
 ### What is Downtify?
 
