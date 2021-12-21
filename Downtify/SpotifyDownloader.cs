@@ -76,7 +76,8 @@ namespace Downtify
             return new SpotifyWebApi.SpotifyWebApi(_spotifyWebApiToken);
         }
 
-        private void RefreshToken(Boolean refreshOnlyIfExpired) {
+        private void RefreshToken(Boolean refreshOnlyIfExpired)
+        {
             if (!refreshOnlyIfExpired || (refreshOnlyIfExpired && _spotifyWebApiToken.IsExpired))
             {
 
