@@ -37,7 +37,10 @@ To use Downtify, you need to clone/download this repo and edit the `config.xml` 
 ```
 `username` + `password` must be valid Premium user credentials.
 
-`clientId` + `clientSecret` should be retrived from [here](https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app).
+`clientId` + `clientSecret` should be retrived from [here](https://developer.spotify.com/dashboard/applications).
+* Log in with your Spotify account, create an app 
+* Pick an ‘App name’ and ‘App description’ of your choice and mark the checkboxes.
+* After creation, you see your ‘ClientId’ and you can click on "Show client secret" to unhide your 'clientSecret'.
 
 ### Downloading
 
