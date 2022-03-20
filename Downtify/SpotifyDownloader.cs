@@ -40,7 +40,8 @@ namespace Downtify
         OVERWRITE
     }
 
-    public class SpotifyWeb {
+    public class SpotifyWeb
+    {
 
         ISpotifyWebApi _spotifyWebApi;
         Token _spotifyWebApiToken;
@@ -75,9 +76,9 @@ namespace Downtify
             return new SpotifyWebApi.SpotifyWebApi(_spotifyWebApiToken);
         }
 
-        private void RefreshToken(Boolean refreshOnlyIfExpired)
-        {
-            if (!refreshOnlyIfExpired || (refreshOnlyIfExpired && _spotifyWebApiToken.IsExpired)) {
+        private void RefreshToken(Boolean refreshOnlyIfExpired) {
+            if (!refreshOnlyIfExpired || (refreshOnlyIfExpired && _spotifyWebApiToken.IsExpired))
+            {
 
                 //=====================
                 // ValidationException("Refresh token was null or empty!") is always thrown, since string.IsNullOrEmpty(oldToken.RefreshToken) is alwyas true.
@@ -519,7 +520,6 @@ namespace Downtify
             //Implentation not required, but method must exist.
         }
 
-
         private DownloadType GetDownloadType()
         {
             var typeStr = GUI.frmMain.configuration.GetConfiguration("file_exists").ToUpper();
@@ -557,6 +557,7 @@ namespace Downtify
             {
                 return "spotify:" + elements[3] + ":" + elements[4];
             }
+
 
             return url;
         }
