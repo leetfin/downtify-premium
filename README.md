@@ -1,5 +1,7 @@
-[![Is this project still maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/badges/shields)
-[![Donate](https://img.shields.io/badge/Donate-Patreon-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/L33Tech)
+[![Is this project still maintained?](https://img.shields.io/maintenance/no/2022?style=for-the-badge)](https://github.com/badges/shields)
+[![Donate](https://img.shields.io/badge/Donate-Patreon-blue?style=for-the-badge&logo=patreon)](https://www.leet.party)
+
+## Due to the sunsetting of this project's core library libspotify, this project has been discontinued.
 
 ### What is Downtify?
 
@@ -69,4 +71,4 @@ This project was forked from [elmundio87/downtify-premium](https://github.com/el
 
 ### Does it work?
 
-As of the last commit date for this README, yes.
+As of May 2022, not anymore.
